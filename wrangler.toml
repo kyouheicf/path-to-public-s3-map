@@ -1,0 +1,4 @@
+name = "path-to-public-s3-map"
+compatibility_date = "2022-10-31"
+account_id = "xxx"
+route = { pattern = "example.org/demo/*", zone_name = "example.org" }
