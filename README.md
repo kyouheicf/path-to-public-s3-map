@@ -1,0 +1,1 @@
+# path-to-public-s3-map
