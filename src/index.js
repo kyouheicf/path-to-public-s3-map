@@ -1,4 +1,4 @@
-// https://example.com/demo/example2.jpg
+// https://example.org/demo/example2.jpg
 // --> https://adrenalinmedia-website.s3.amazonaws.com/demo/example2.jpg
 
 const bucket = 'adrenalinmedia-website'
